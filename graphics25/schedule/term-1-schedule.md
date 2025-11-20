@@ -98,8 +98,7 @@ LectureA05 Lighting and Shading Basics
 {% file src="../../.gitbook/assets/5CM507_Graphics_Lecture_A05_Lighting_v2025_1_5.pdf" %}
 
 \
-[LabA05  Basic Lighting - Blinn-Phong and Phong](https://youbing.gitbook.io/graphics/graphics25/term1/laba05/)\
-
+[LabA05  Basic Lighting - Blinn-Phong and Phong](https://youbing.gitbook.io/graphics/graphics25/term1/laba05/)<br>
 
 LearnOpenGL.com
 
@@ -122,9 +121,12 @@ Self-learning: How mesh models are created
 
 ## Week 08 10/11/25
 
-LectureA06 Physical-based lighting models - BRDF, GGX\
+LectureA06 Physical-based lighting models - GGX and BRDF
+
+{% file src="../../.gitbook/assets/5CM507_Graphics_Lecture_A06_PBR_GGX_v2025_1_2.pdf" %}
+
 \
-LabA06 Physically-based Lighting - GGX model\
+LabA06 Physically-based Lighting - GGX model using GenAI\
 LearnOpenGL.com
 
 {% embed url="https://learnopengl.com/PBR/Lighting" %}

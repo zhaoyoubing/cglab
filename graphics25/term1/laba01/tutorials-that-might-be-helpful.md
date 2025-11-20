@@ -18,4 +18,4 @@ He is using GLEW and Qt, while we are using GLFW and GLAD. For UI, you can use t
 
 {% embed url="https://www.youtube.com/watch?v=cLvxLkgHqQs&list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY&index=2" %}
 
-\
+<br>
