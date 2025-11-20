@@ -183,11 +183,10 @@ LearnOpenGL.com
 
 ## Week 10 24/11/25
 
-LectureA09 Shadow mapping \
-\
-LabA09 Shadow Mpas
+LectureA09 Shadow Maps\
+<br>
 
-
+LabA09 Shadow Maps
 
 LearnOpenGL.com
 
@@ -205,7 +204,8 @@ Ambient occulusion and soft shadows
 
 ## Week 11 01/12/25
 
-LectureA10 Postprocessing Effects - bloom, motion blur, etc.\
+LectureA10 Image-Space Effects - bloom, motion blur, etc.<br>
+
 \
 LabA10 Bloom shader programming
 
