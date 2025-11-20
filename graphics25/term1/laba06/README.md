@@ -55,7 +55,7 @@ Try to find correspondence between the variables in the code and in the GGX equa
 
 ### Smith Masking-Shadowing function G1
 
-### Joint Smith Geometry Function G1(n,l)\*G1(n,v)
+### Joint Smith Geometry Function G2(n,l,v)=G1(n,l)\*G1(n,v)
 
 ### The main GGX function
 
