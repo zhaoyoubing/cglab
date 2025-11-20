@@ -41,6 +41,8 @@ $$
 
 Try to use GenAI tools to help generate the GGX fragment shader code.
 
+You can use the same vertex shader from Blinn-Phong, the difference is in the fragment shader.
+
 ## Task 6.2 Read the fragment shader functions
 
 What kind of Normal Distribution Function and Smith masking-shadowing functions the source code is using ? They might be different from what is introduced the lecture.
