@@ -139,6 +139,10 @@ Allegorithmic PBR Guide (Easy)
 
 
 
+Fresnel Effect
+
+{% embed url="https://www.dorian-iten.com/fresnel/" %}
+
 (Highly Recommended) GSN Composer Video Tutorial
 
 {% embed url="https://www.youtube.com/watch?v=gya7x9H3mV0" %}
