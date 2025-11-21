@@ -190,6 +190,8 @@
     * [LabA08 Texture Mapping](graphics25/labs-a-term-1/laba08-texture-mapping.md)
   * [Lectures B (Term 2)](graphics25/lectures-b-term-2.md)
   * [Labs B (Term 2)](graphics25/labs-b-term-2.md)
+  * [Labs B (Spring 2026)](graphics25/labs-b-spring-2026/README.md)
+    * [Ray Tracing Sampling](graphics25/labs-b-spring-2026/ray-tracing-sampling.md)
 * [LABS AUTUMN 2026](labs-autumn-2026/README.md)
   * [Lab 00 Set up OpenGL](labs-autumn-2026/lab-00-set-up-opengl.md)
   * [Lab 01 Draw triangles with indices](labs-autumn-2026/lab-01-draw-triangles-with-indices.md)
