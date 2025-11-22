@@ -123,7 +123,7 @@ Self-learning: How mesh models are created
 
 LectureA06 Physical-based lighting models - GGX and BRDF
 
-{% file src="../../.gitbook/assets/5CM507_Graphics_Lecture_A06_PBR_GGX_v2025_1_2.pdf" %}
+{% file src="../../.gitbook/assets/5CM507_Graphics_Lecture_A06_PBR_GGX_v2025_1_3.pdf" %}
 
 \
 LabA06 Physically-based Lighting - GGX model using GenAI\
@@ -189,6 +189,12 @@ LearnOpenGL.com
 
 LectureA09 Shadow Maps\
 <br>
+
+Tutorial:
+
+{% embed url="https://www.opengl-tutorial.org/intermediate-tutorials/tutorial-16-shadow-mapping/" %}
+
+
 
 LabA09 Shadow Maps
 
