@@ -4,7 +4,7 @@
 
 [https://github.com/zhaoyoubing/proj02/tree/LabA08\_normalmap\_start](https://github.com/zhaoyoubing/proj02/tree/LabA08_normalmap_start)
 
-With this scaffold project, you only need to work on Mesh.cpp and two shaders: normalmap.vert and normalmap.frag.
+With this scaffold project, you only need to work on <mark style="color:red;">**Mesh.cpp**</mark> and two shaders: <mark style="color:red;">**normalmap.vert**</mark> and <mark style="color:red;">**normalmap.frag**</mark>.
 
 ## The Box\_normal model
 
