@@ -191,7 +191,7 @@ LectureA09 Shadow Maps
 
 {% file src="../../.gitbook/assets/5CM507_Graphics_Lecture_A09a_ShadowMaps_v2025_1_1.pdf" %}
 
-Tutorial:
+Tutorial
 
 {% embed url="https://www.opengl-tutorial.org/intermediate-tutorials/tutorial-16-shadow-mapping/" %}
 
@@ -205,13 +205,11 @@ How to implement shadow map
 
 [https://www.youtube.com/watch?v=Jhopq2lkzMQ\&list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN\&index=16](https://www.youtube.com/watch?v=Jhopq2lkzMQ\&list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN\&index=16)
 
-
-
 Further reading:
 
 Ambient occulusion and soft shadows
 
-[https://www.youtube.com/watch?v=teB-pbAd8JE\&list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN\&index=23](https://www.youtube.com/watch?v=teB-pbAd8JE\&list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN\&index=23)
+{% embed url="https://www.youtube.com/watch?v=teB-pbAd8JE&list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN&index=23" %}
 
 ## Week 11 01/12/25
 
