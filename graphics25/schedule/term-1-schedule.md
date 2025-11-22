@@ -187,8 +187,9 @@ LearnOpenGL.com
 
 ## Week 10 24/11/25
 
-LectureA09 Shadow Maps\
-<br>
+LectureA09 Shadow Maps
+
+{% file src="../../.gitbook/assets/5CM507_Graphics_Lecture_A09a_ShadowMaps_v2025_1_1.pdf" %}
 
 Tutorial:
 
