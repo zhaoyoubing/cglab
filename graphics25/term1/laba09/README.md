@@ -6,9 +6,13 @@
 
 With this scaffold project, you only need to work on the following files:
 
-<mark style="color:red;">shaders/</mark><mark style="color:red;">**shadowmap.vert**</mark> <mark style="color:red;"></mark> <mark style="color:red;"></mark><mark style="color:red;">shaders/</mark><mark style="color:red;">**shadowmap.frag**</mark> <mark style="color:red;">**main.cpp**</mark>
+<mark style="color:red;">shaders/</mark><mark style="color:red;">**shadowmap.vert**</mark> <mark style="color:red;"></mark>&#x20;
 
-Search those files with "**TODO**" to find parts that you need to work on.
+<mark style="color:red;">shaders/</mark><mark style="color:red;">**shadowmap.frag**</mark>&#x20;
+
+<mark style="color:red;">src/</mark><mark style="color:red;">**main.cpp**</mark>
+
+Search those files with "**TODO**" to find sections that you need to work on.
 
 
 
