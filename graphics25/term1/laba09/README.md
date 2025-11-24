@@ -18,7 +18,7 @@ Search those files with "**TODO**" to find sections that you need to work on.
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
 
-The Shadow Map with Front Face Culling (the background should be white for the real shadow map)
+Depth Rendering with Front Face Culling (the background should be white for the real shadow map)
 
 <figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
