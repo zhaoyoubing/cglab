@@ -206,3 +206,4 @@
     * [Normal Mapping](notes/texture-mapping/normal-mapping.md)
   * [Personal](notes/personal.md)
   * [Post-processing](notes/post-processing.md)
+  * [Lighting](notes/lighting.md)
