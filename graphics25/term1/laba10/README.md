@@ -2,7 +2,13 @@
 
 ## Scaffold project
 
-to be announced
+{% embed url="https://github.com/zhaoyoubing/proj02/tree/LabA10_bloom_start" %}
+
+You only need to work on shaders/<mark style="color:red;">**bloomfilter.frag**</mark>, shaders/<mark style="color:red;">**bloomblur.frag**</mark>, shaders/<mark style="color:red;">**bloomblend.frag**</mark> and <mark style="color:red;">**main.cpp**</mark>.
+
+Try to search with "TODO" to find sections you need to work on.
+
+
 
 
 
